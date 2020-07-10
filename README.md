@@ -5,6 +5,6 @@ The Github tutorial.
 
 |Table|Headings|
 -----------------
-|God I hate| this syntax|
+|Oh no, the master branch| changed before the other branch was|
 
 Blah de blah

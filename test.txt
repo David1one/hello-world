@@ -1,0 +1,12 @@
+ Volume in drive C is Local Disk
+ Volume Serial Number is 8EC2-149E
+
+ Directory of C:\Users\David McMahon\Documents\Coding\Github repos\hello-world
+
+14/07/2020  18:13    <DIR>          .
+14/07/2020  18:13    <DIR>          ..
+10/07/2020  11:09             1,235 LICENSE
+10/07/2020  11:25               216 README.md
+14/07/2020  18:13                 0 test.txt
+               3 File(s)          1,451 bytes
+               2 Dir(s)  725,852,200,960 bytes free

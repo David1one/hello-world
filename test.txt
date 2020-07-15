@@ -1,3 +1,1 @@
-Hi there,
-    We were trying to float README directory to top.
-    Don't change this file, our bot is constantly doing so!!
+AFJD
